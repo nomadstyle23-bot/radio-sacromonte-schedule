@@ -2,6 +2,7 @@
 # OVERRIDE YYYY-MM-DDTHH:MM spotify:playlist:ID [now] Show name  = one-off takeover until that time
 05:00  spotify:playlist:0iMajunHw2soCgNI5Nxcsg  Late Night Atmospheric
 08:00  spotify:playlist:1wHqiQSbGUS7ebTkbiPIrS  Daytime Mediterranean
+09:30  spotify:playlist:2QadbEHKwoCeX5ektVjrWe  Sara's road trip show
 11:00  spotify:playlist:3b2S1HwZm4afHnF6lAjGHg  Morning Soul Sessions
 13:00  spotify:playlist:7aLSvhhkPNSzyzVIEZpG3H  Afrobeat (African Greats)
 15:00  spotify:playlist:4H0G9qpgenT1c5VE6fcqN0  Mixed Genres from the Vault
